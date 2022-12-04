@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737980682723",
+    "project_id": "coba-5f052",
+    "storage_bucket": "coba-5f052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737980682723:android:63ca372ef318f78a72d0d6",
+        "android_client_info": {
+          "package_name": "com.example.tugasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737980682723-vv7ot3vkn4833i5fidbs88tvmmg34n3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUR2BzCkIauqIDEo9M8IEqdoX58Dmiu0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737980682723-vv7ot3vkn4833i5fidbs88tvmmg34n3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
